@@ -1,0 +1,31 @@
+supplier_id,supplier_name,city,state,product,category,description,price_inr,unit,min_order_qty,lead_time_days,rating
+S001,Shree Ganesh Packaging,Ahmedabad,Gujarat,Corrugated Box 5 Ply,Packaging,"5 ply brown corrugated shipping box, custom size printing available, 18x12x12 inch",28,piece,500,7,4.5
+S002,Kaveri Packaging Solutions,Chennai,Tamil Nadu,Corrugated Box 3 Ply,Packaging,"3 ply corrugated carton box for e-commerce, light weight, 12x10x8 inch",14,piece,1000,5,4.2
+S003,Delhi Poly Industries,Delhi,Delhi,LDPE Poly Bag,Packaging,"Transparent LDPE plastic bags 50 micron, courier and garment packing",2,piece,5000,4,4.0
+S004,Coimbatore Pumps & Motors,Coimbatore,Tamil Nadu,Submersible Pump 1 HP,Pumps,"1 HP single phase borewell submersible pump, stainless steel body, 100 ft head",9500,piece,2,6,4.6
+S005,Rajkot Agro Engineering,Rajkot,Gujarat,Monoblock Pump 2 HP,Pumps,"2 HP centrifugal monoblock water pump for agriculture irrigation, cast iron",7200,piece,1,5,4.3
+S006,Pune Industrial Valves,Pune,Maharashtra,SS Ball Valve 1 inch,Valves,"Stainless steel 304 ball valve 1 inch screwed end, 1000 PSI",650,piece,20,3,4.4
+S007,Mumbai Fluid Controls,Mumbai,Maharashtra,Butterfly Valve 4 inch,Valves,"Cast iron butterfly valve 4 inch wafer type with lever, water and oil line",3100,piece,5,7,4.1
+S008,Tiruppur Knit Exports,Tiruppur,Tamil Nadu,Cotton Round Neck T-Shirt,Apparel,"180 GSM 100% cotton round neck t-shirt, plain, all sizes, custom logo printing",145,piece,200,10,4.7
+S009,Ludhiana Hosiery House,Ludhiana,Punjab,Polo T-Shirt,Apparel,"Polyester cotton polo t-shirt for corporate uniforms, embroidery available",260,piece,100,12,4.2
+S010,Surat Synthetics,Surat,Gujarat,Polyester Saree Fabric,Textiles,"Printed polyester georgette fabric for sarees, 44 inch width",95,meter,500,8,3.9
+S011,Bengaluru LED Lights,Bengaluru,Karnataka,LED Panel Light 18W,Electrical,"18 watt slim round LED panel ceiling light, cool white, 2 year warranty",210,piece,50,4,4.5
+S012,Noida Electricals,Noida,Uttar Pradesh,LED Street Light 60W,Electrical,"60W LED street light IP66 waterproof, aluminium housing, 5 year warranty",2400,piece,10,9,4.3
+S013,Haridwar Wires & Cables,Haridwar,Uttarakhand,Copper House Wire 1.5 sqmm,Electrical,"1.5 sqmm FR PVC insulated copper house wire, 90 m coil, ISI marked",1350,coil,10,3,4.4
+S014,Jaipur Marble Mart,Jaipur,Rajasthan,White Makrana Marble,Building Material,"Makrana white marble slab, polished, 18 mm thickness for flooring",180,sq ft,500,15,4.6
+S015,Hyderabad Cement Traders,Hyderabad,Telangana,OPC 53 Grade Cement,Building Material,"OPC 53 grade cement 50 kg bag, for construction and RCC work",385,bag,100,2,4.1
+S016,Kolkata Jute Mills,Kolkata,West Bengal,Jute Shopping Bag,Packaging,"Eco friendly laminated jute shopping bag with handle, custom printing, 14x16 inch",65,piece,300,10,4.4
+S017,Chennai Steel Fabricators,Chennai,Tamil Nadu,Heavy Duty Storage Rack,Furniture,"Slotted angle MS storage rack 5 shelves, 300 kg per shelf, powder coated",4800,piece,5,7,4.3
+S018,Ahmedabad Chem Industries,Ahmedabad,Gujarat,Caustic Soda Flakes,Chemicals,"Sodium hydroxide caustic soda flakes 98% purity, 50 kg bag, industrial grade",48,kg,500,5,4.0
+S019,Vapi Specialty Chemicals,Vapi,Gujarat,Isopropyl Alcohol,Chemicals,"IPA isopropyl alcohol 99.9% pure, 200 litre drum, for cleaning and pharma",95,litre,200,6,4.2
+S020,Indore Food Machines,Indore,Madhya Pradesh,Atta Chakki Machine,Machinery,"Commercial flour mill atta chakki 3 HP, 20 kg per hour, with motor",28000,piece,1,10,4.5
+S021,Mysuru Agarbatti Works,Mysuru,Karnataka,Incense Sticks,FMCG,"Hand rolled masala agarbatti, sandal and rose fragrance, bulk pack",220,kg,50,6,4.6
+S022,Udupi Cashew Processors,Udupi,Karnataka,W240 Cashew Kernels,Food,"Whole white cashew kernels grade W240, vacuum tin pack 10 kg",720,kg,50,4,4.7
+S023,Kochi Spice Exporters,Kochi,Kerala,Black Pepper,Food,"Malabar black pepper 550 GL, machine cleaned, 25 kg bag",640,kg,100,5,4.5
+S024,Faridabad Auto Parts,Faridabad,Haryana,Brake Pads,Auto Parts,"Disc brake pads for two wheelers, asbestos free, OEM quality",120,set,100,6,4.0
+S025,Coimbatore Textile Machinery,Coimbatore,Tamil Nadu,Industrial Sewing Machine,Machinery,"Single needle lockstitch industrial sewing machine with servo motor",14500,piece,1,7,4.4
+S026,Thane Safety Equipments,Thane,Maharashtra,Safety Helmet,Safety,"ISI marked HDPE industrial safety helmet with ratchet, multiple colours",95,piece,100,3,4.3
+S027,Chennai Safety World,Chennai,Tamil Nadu,Safety Shoes,Safety,"Steel toe PU sole industrial safety shoes, ISI marked, sizes 6-11",690,pair,50,5,4.4
+S028,Gurugram Office Furniture,Gurugram,Haryana,Ergonomic Office Chair,Furniture,"Mesh back ergonomic office chair with lumbar support and adjustable arms",5200,piece,10,8,4.5
+S029,Moradabad Brass Handicrafts,Moradabad,Uttar Pradesh,Brass Diya Set,Handicrafts,"Handcrafted brass diya set of 5 for festive gifting, corporate gift boxes",450,set,50,12,4.6
+S030,Salem Sago Traders,Salem,Tamil Nadu,Sabudana,Food,"Sago sabudana medium pearl, 50 kg bag, for food processing and retail",62,kg,500,4,4.1
